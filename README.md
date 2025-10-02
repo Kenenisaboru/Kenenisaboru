@@ -6,8 +6,8 @@
 <!-- Typing animation banner -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00A3FF&center=true&width=720&lines=Hi,+I'm+Kenenisa+👋;Web+Developer+%7C+Information+Science+Student;Building+Simple+&+Useful+Apps)
 
-# Hi there 👋, I'm **Kenenisa**  
-💻 Passionate about ** fulstack Web Application & Information Science** | 🎓 Student at **Haramaya University** | 🇪🇹 Based in Ethiopia
+# Hi there 👋, I'm **Kenenisa Boru**  
+💻 Passionate about ** fulstack Web Application & solving real world  Algorithim problem ** | 🎓 Student at **Haramaya University** | 🇪🇹 Based in Ethiopia
 
 ---
 
@@ -69,10 +69,13 @@
 
 ---
 
-## 📚 Projects & Learning
-- 🎯 **Simple Quiz App** — a lightweight interactive quiz (React + local storage)  
-- 🧾 University assignments — Information Science / Collection Development projects  
-- 💡 Hackathon projects — participating in Zemenay Hackathon (blog engine with Next.js & Supabase)
+## 📚 Projects & Learning  
+
+- 🎯 **Simple Quiz App** — An interactive quiz application built with React.js and **Local Storage** to track progress.  
+- 🧾 **Academic Projects** — Various university assignments in **Information Science**, including database design, and data stracture and algorithim.  
+- 💡 **Zemenay Hackathon** — Currently building **ZenaCraft**, a fast and pluggable blog engine using **Next.js** and **Supabase (PostgreSQL)**.  
+- 🕹️ **Mini Games & Tools** — Fun experiments like a **Snake Game**, **To-Do List App**, and small JavaScript projects.  
+
 
 ---
 
