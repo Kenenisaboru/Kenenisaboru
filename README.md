@@ -51,6 +51,16 @@
 -->
 
 ---
+## 🛠️ Skills & Knowledge  
+
+- **JavaScript** ![70%](https://progress-bar.dev/70/?title=70%&width=200&color=yellow)   
+- **HTML5** ![90%](https://progress-bar.dev/90/?title=90%&width=200&color=orange)   
+- **CSS3** ![80%](https://progress-bar.dev/80/?title=80%&width=200&color=blue)  
+- **React.js** ![75%](https://progress-bar.dev/75/?title=75%&width=200&color=61DAFB)  
+- **Node.js** ![50%](https://progress-bar.dev/50/?title=50%&width=200&color=green)   
+- **Express.js** ![65%](https://progress-bar.dev/65/?title=65%&width=200&color=black)   
+- **MongoDB** ![65%](https://progress-bar.dev/65/?title=65%&width=200&color=darkgreen)  
+
 
 ## 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kenenisaboru)
