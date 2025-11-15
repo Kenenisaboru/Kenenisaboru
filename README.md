@@ -83,6 +83,11 @@
 ## ✨ Final Words  
 💡 I love solving problems, building full-stack applications, and growing as a developer every day.  
 🔥 Always ready for hackathons, projects, and collaborations!
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kenenisaboru/Kenenisaboru/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
 
 ---
 
