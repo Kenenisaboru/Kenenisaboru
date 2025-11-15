@@ -85,7 +85,7 @@
 🔥 Always ready for hackathons, projects, and collaborations!
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kenenisaboru/Kenenisaboru/main/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://https://github.com/Kenenisaboru/Kenenisaboru/main/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 
