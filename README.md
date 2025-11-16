@@ -73,7 +73,7 @@
 
 ---
 
-## 🎉 Fun Animation  
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </p>
@@ -83,10 +83,7 @@
 ## ✨ Final Words  
 💡 I love solving problems, building full-stack applications, and growing as a developer every day.  
 🔥 Always ready for hackathons, projects, and collaborations!
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://https://github.com/Kenenisaboru/Kenenisaboru/main/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+
 
 
 
