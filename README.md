@@ -47,19 +47,24 @@ I’m a passionate beginner Full-Stack Developer and Information Science student
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kenenisaboru&show_icons=true&theme=tokyonight&hide_border=false" alt="Kenenisa's GitHub Stats" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kenenisaboru&theme=tokyonight&hide_border=false" alt="Kenenisa's GitHub Streak" height="160px"/>
+  <!-- Total Contributions & Icons -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Kenenisaboru&show_icons=true&theme=radical&hide_border=false" alt="Kenenisa's GitHub Stats" height="160px"/>
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kenenisaboru&theme=radical&hide_border=false" alt="Kenenisa's GitHub Streak" height="160px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenenisaboru&layout=compact&theme=tokyonight&hide_border=false" alt="Kenenisa's Top Languages" height="160px"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenenisaboru&layout=compact&theme=radical&hide_border=false" alt="Kenenisa's Top Languages" height="160px"/>
 </p>
-
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kenenisaboru&theme=tokyonight&no-frame=true&row=1&column=7" alt="Kenenisa's GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Kenenisaboru&theme=radical&row=1&column=7&no-frame=true" alt="Kenenisa's GitHub Trophies"/>
 </p>
+
 
 
 ---
