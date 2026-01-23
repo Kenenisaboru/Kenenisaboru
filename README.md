@@ -18,8 +18,8 @@
     <td width="60%">
       <ul>
         <li>💻 Full-stack developer specializing in <b>React, Node.js, and MySQL</b></li>
-        <li>🎓 Computer Science student at Haramaya University</li>
-        <li>🔥 Currently mastering <b>DSA with C++</b> and advanced React patterns</li>
+        <li>🎓 Information Science student at Haramaya University</li>
+        <li>🔥 Currently mastering <b>DSA with javascript</b> and master Backend pattern</li>
         <li>✨ Passionate about creating <b>scalable, accessible web applications</b></li>
         <li>📫 Reach me: <a href="mailto:kenenisaboru998@gmail.com">kenenisaboru998@gmail.com</a></li>
       </ul>
