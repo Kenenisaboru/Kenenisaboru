@@ -28,9 +28,7 @@
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
     </td>
   </tr>
-  <!-- Replace static badges with dynamic ones -->
-[![wakatime](https://wakatime.com/badge/user/YOUR_USER_ID.svg)](https://wakatime.com/@kenenisa Boru)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Karla)](https://leetcode.com/u/kananisa/)
+
 ---
 </table>
 
@@ -78,7 +76,7 @@
 ---
 
 <!-- Projects cards -->
-  <p><strong>Key Features:</strong></p>
+  <p><strong> Upgrade my school managment project Key Features:</strong></p>
   <ul>
     <li>📊 Real-time attendance & grade tracking</li>
     <li>👨‍🏫 Separate portals for Admin, Teachers, Students</li>
@@ -124,7 +122,6 @@
     <img src="https://img.shields.io/badge/💾_Solutions_Repo-000?style=for-the-badge&logo=github" />
   </a>
 </td>
-## 🏗️ **Technical Expertise**
 
 ### Architecture Patterns I Use
 - **Microservices** with Docker containers
@@ -154,16 +151,7 @@
 ---
 🤝 Connect & Collaborate
 <div align="center">
-🌐 Professional Platforms
-
-
-
-
-
-
-
-
-
+🌐 Professional Platform
 </div>
 💼 Professional Services & Availability
 Service	Status	Engagement
@@ -179,7 +167,7 @@ Project & Freelance Inquiries:
 
 Technical Discussions:
 💼 LinkedIn messages
-🐦 Twitter DMs
+🐦Telegram
 
 Code Collaboration:
 🐙 GitHub Issues on relevant repositories
@@ -191,7 +179,7 @@ Quick Questions:
 
 📍 Based in: Ethiopia — Haramaya University
 
-🕘 Availability: 9:00 AM – 6:00 PM (Local Time)
+🕘 Availability: 9:00 AM – 8:00 PM (Local Time)
 
 📅 Meetings: Email or Telegram (by appointment)
 
