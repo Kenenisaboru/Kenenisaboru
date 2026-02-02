@@ -151,50 +151,59 @@
 </details>
 
 ---
-
 🤝 Connect & Collaborate
 <div align="center">
-Professional Platforms
-https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white
-https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+🌐 Professional Platforms
 
-Professional Services & Availability
+
+
+
+
+
+
+
+
+</div>
+💼 Professional Services & Availability
 Service	Status	Engagement
-Freelance Development	✅ Available	Custom web applications, API development, and full-stack solutions
-Technical Consulting	✅ Limited Capacity	Architecture reviews, tech stack guidance, and performance optimization
-Code Review & Mentorship	✅ Open for OSS	Pull request reviews, best practices guidance for junior developers
-Open Source Collaboration	✅ Welcoming Proposals	Feature development, bug fixes, and documentation improvements
-Preferred Contact Channels
-For Project Inquiries:
-📧 kenenisaboru998@gmail.com
+Freelance Development	✅ Available	Custom web applications, APIs, full-stack solutions
+Technical Consulting	⚠️ Limited	Architecture review, tech stack guidance, optimization
+Code Review & Mentorship	✅ Open (OSS)	PR reviews & best practices for junior devs
+Open Source Collaboration	✅ Open	Features, bug fixes, documentation
+📬 Preferred Contact Channels
 
-For Technical Discussions:
-🐦 Twitter DM or 💼 LinkedIn Message
+Project & Freelance Inquiries:
+📧 Email: kenenisaboru998@gmail.com
+💼 Upwork: View Profile
 
-For Code Collaboration:
+Technical Discussions:
+💼 LinkedIn messages
+🐦 Twitter DMs
+
+Code Collaboration:
 🐙 GitHub Issues on relevant repositories
 
-For Quick Questions:
-📱 Response within 24-48 hours on all platforms
+Quick Questions:
+⏱️ Response within 24–48 hours
 
-Working Hours & Timezone
-📍 Based in: Ethiopia, Haramaya University 
-⏰ Best Reachable: 9:00 AM - 6:00 PM Local Time
-📅 Meeting Scheduling: Available via email and telegram 
+⏰ Working Hours & Location
 
-</div>
-<div align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100" alt="Connect GIF"/> <p><i>Always open to meaningful collaborations and interesting technical challenges!</i></p>
-<small>🔗 <strong>Quick Links:</strong>
-Portfolio •https://kanu-wiz.netlify.app/
-GitHub •https://github.com/Kenenisaboru
-LinkedIn •https://www.linkedin.com/in/kenenisa-boru-8377a13a7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BN%2FtCekGZTlu4zcK1Jh1juQ%3D%3D
-Email . kenenisaboru998gmail.com
-</small>
+📍 Based in: Ethiopia — Haramaya University
 
-</div>
+🕘 Availability: 9:00 AM – 6:00 PM (Local Time)
+
+📅 Meetings: Email or Telegram (by appointment)
+
+<div align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100" alt="Connect GIF"/> <p><i>Always open to meaningful collaborations and interesting technical challenges!</i></p> </div>
+🔗 Quick Links
+
+🌐 Portfolio: https://kanu-wiz.netlify.app/
+
+🐙 GitHub: https://github.com/Kenenisaboru
+
+💼 LinkedIn: https://www.linkedin.com/in/kenenisa-boru-8377a13a7/
+
+💻 Upwork: https://upwork.com/freelancers/~010bcd8ce636dba0d5
 
 
 ---
