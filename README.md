@@ -53,9 +53,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### Currently Learning
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![DSA](https://img.shields.io/badge/-Data_Structures-FFA500?style=flat&logo=algorithm&logoColor=white)
 
 ---
 
@@ -80,56 +77,52 @@
 ---
 
 <!-- Projects cards -->
-## 💼 **Featured Projects**
-
-<div align="center">
-  <table>
-    <!-- Project 1 -->
-    <tr>
-      <td width="50%">
-        <h3>🏫 finalize my starting project  School Management System</h3>
-        <p>Full-stack solution for educational institutions with separate admin/student portals</p>
-        <p><b>Tech:</b> React · Node · Express · MySQL</p>
-        <a href="https://github.com/Kenenisaboru/school-management-system">
-          <img src="https://img.shields.io/badge/View-Frontend-7E3ACE?style=for-the-badge&logo=github" />
-        </a>
-        <a href="https://github.com/Kenenisaboru/school-management-backend">
-          <img src="https://img.shields.io/badge/View-Backend-2ECC71?style=for-the-badge&logo=github" />
-        </a>
-      </td>
-      <td width="50%">
-        <h3>✨ Portfolio Website</h3>
-        <p>Modern responsive portfolio showcasing projects and developer journey</p>
-        <p><b>Tech:</b> React · Tailwind CSS · Vercel</p>
-        <a href="https://kenenisa-portfolio.netlify.app/">
-          <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel" />
-        </a>
-        <a href="https://github.com/Kenenisaboru/portfolio">
-          <img src="https://img.shields.io/badge/Source_Code-000?style=for-the-badge&logo=github" />
-        </a>
-      </td>
-    </tr>
-    <!-- Project 2 -->
-    <tr>
-      <td width="50%">
-        <h3>📊 Data Structures Library</h3>
-        <p>C++ implementations of common data structures with performance benchmarks</p>
-        <p><b>Tech:</b> C++ · CMake · Google Test</p>
-        <a href="https://github.com/Kenenisaboru/data-structures-cpp">
-          <img src="https://img.shields.io/badge/View_Repo-00599C?style=for-the-badge&logo=c%2B%2B" />
-        </a>
-      </td>
-      <td width="50%">
-        <h3>🛒 E-commerce Dashboard</h3>
-        <p>Admin dashboard for managing products, orders, and customer data</p>
-        <p><b>Tech:</b> React · Node · MongoDB</p>
-        <a href="https://github.com/Kenenisaboru/ecommerce-admin">
-          <img src="https://img.shields.io/badge/View_Project-47A248?style=for-the-badge&logo=mongodb" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+  <p><strong>Key Features:</strong></p>
+  <ul>
+    <li>📊 Real-time attendance & grade tracking</li>
+    <li>👨‍🏫 Separate portals for Admin, Teachers, Students</li>
+    <li>📱 Progressive Web App (PWA) capabilities</li>
+    <li>📈 Analytics dashboard for performance insights</li>
+  </ul>
+  
+  <p><strong>Tech Stack:</strong> React · Node.js · Express · MySQL · Socket.io · JWT</p>
+  
+  <a href="https://github.com/Kenenisaboru/school-management-system">
+    <img src="https://img.shields.io/badge/📁_Frontend_Repo-7E3ACE?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/Kenenisaboru/school-management-backend">
+    <img src="https://img.shields.io/badge/⚙️_Backend_Repo-2ECC71?style=for-the-badge&logo=github" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/🚀_Launching_Soon-FF5722?style=for-the-badge&logo=vercel" />
+  </a>
+</td>
+<td width="50%">
+  <h3>🧠 <strong>Problem Solving: Real-World LeetCode Challenges</strong></h3>
+  <p><strong>Focus:</strong> Solving complex algorithmic problems with practical applications</p>
+  
+  <p><strong>Current Focus Areas:</strong></p>
+  <ul>
+    <li>🔗 Graph algorithms for network optimization</li>
+    <li>🗄️ Dynamic programming for resource allocation</li>
+    <li>🌲 Tree structures for hierarchical data</li>
+    <li>⚡ Time & space complexity optimization</li>
+  </ul>
+  
+  <p><strong>Recent Solutions:</strong></p>
+  <div style="background: #0D1117; padding: 10px; border-radius: 8px;">
+    <code>#️⃣ Daily LeetCode streak: 45+ days</code><br>
+    <code>🏆 Hard problems solved: 25+</code><br>
+    <code>📊 Contest rating: Top 30% global</code>
+  </div>
+  
+  <a href="https://leetcode.com/u/kananisa/">
+    <img src="https://img.shields.io/badge/📝_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://github.com/Kenenisaboru/leetcode-solutions">
+    <img src="https://img.shields.io/badge/💾_Solutions_Repo-000?style=for-the-badge&logo=github" />
+  </a>
+</td>
 ## 🏗️ **Technical Expertise**
 
 ### Architecture Patterns I Use
@@ -159,23 +152,50 @@
 
 ---
 
-<!-- Contact section -->
-## 📬 **Connect With Me**
-
+🤝 Connect & Collaborate
 <div align="center">
-  <a href="https://kenenisa-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yourusername/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"/>
-  </a>
-  <a href="mailto:kenenisaboru998@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
+Professional Platforms
+https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white
+https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
+Professional Services & Availability
+Service	Status	Engagement
+Freelance Development	✅ Available	Custom web applications, API development, and full-stack solutions
+Technical Consulting	✅ Limited Capacity	Architecture reviews, tech stack guidance, and performance optimization
+Code Review & Mentorship	✅ Open for OSS	Pull request reviews, best practices guidance for junior developers
+Open Source Collaboration	✅ Welcoming Proposals	Feature development, bug fixes, and documentation improvements
+Preferred Contact Channels
+For Project Inquiries:
+📧 kenenisaboru998@gmail.com
+
+For Technical Discussions:
+🐦 Twitter DM or 💼 LinkedIn Message
+
+For Code Collaboration:
+🐙 GitHub Issues on relevant repositories
+
+For Quick Questions:
+📱 Response within 24-48 hours on all platforms
+
+Working Hours & Timezone
+📍 Based in: Ethiopia, Haramaya University 
+⏰ Best Reachable: 9:00 AM - 6:00 PM Local Time
+📅 Meeting Scheduling: Available via email and telegram 
+
 </div>
+<div align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100" alt="Connect GIF"/> <p><i>Always open to meaningful collaborations and interesting technical challenges!</i></p>
+<small>🔗 <strong>Quick Links:</strong>
+Portfolio •https://kanu-wiz.netlify.app/
+GitHub •https://github.com/Kenenisaboru
+LinkedIn •https://www.linkedin.com/in/kenenisa-boru-8377a13a7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BN%2FtCekGZTlu4zcK1Jh1juQ%3D%3D
+Email . kenenisaboru998gmail.com
+</small>
+
+</div>
+
 
 ---
 
