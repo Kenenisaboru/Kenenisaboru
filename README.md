@@ -28,11 +28,12 @@
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
     </td>
   </tr>
-</table>
-<!-- Replace static badges with dynamic ones -->
+  <!-- Replace static badges with dynamic ones -->
 [![wakatime](https://wakatime.com/badge/user/YOUR_USER_ID.svg)](https://wakatime.com/@kenenisa Boru)
 [![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Karla)](https://leetcode.com/u/kananisa/)
 ---
+</table>
+
 
 <!-- Skills with progress bars -->
 ## 🔧 **Technical Skills**
