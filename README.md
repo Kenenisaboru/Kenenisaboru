@@ -29,7 +29,9 @@
     </td>
   </tr>
 </table>
-
+<!-- Replace static badges with dynamic ones -->
+[![wakatime](https://wakatime.com/badge/user/YOUR_USER_ID.svg)](https://wakatime.com/@kenenisa Boru)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Karla)](https://leetcode.com/u/kananisa/)
 ---
 
 <!-- Skills with progress bars -->
@@ -128,6 +130,19 @@
     </tr>
   </table>
 </div>
+## 🏗️ **Technical Expertise**
+
+### Architecture Patterns I Use
+- **Microservices** with Docker containers
+- **MVC & Clean Architecture** implementations
+- **JAMStack** for static sites
+- **Serverless** functions (AWS Lambda/Vercel)
+
+### Development Practices
+- ✅ Test-Driven Development (Jest, Mocha)
+- ✅ CI/CD with GitHub Actions
+- ✅ Code review & PR templates
+- ✅ Semantic versioning
 
 ---
 
