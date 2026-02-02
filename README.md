@@ -153,22 +153,13 @@
 <div align="center">
 🌐 Professional Platform
 </div>
-💼 Professional Services & Availability
-Service	Status	Engagement
-Freelance Development
-✅ Available	Custom web applications,
-APIs,
-full-stack solutions
-Technical Consulting
-⚠️ Limited	Architecture review,
-tech stack guidance, 
-optimization
-Code Review & Mentorship
-✅ Open (OSS)	PR reviews & best practices for junior devs
-Open Source Collaboration
-✅ Open	Features,
-bug fixes,
-documentation
+| **Service**                   | **Status**   | **Engagement**                                                      |
+| ----------------------------- | ------------ | ------------------------------------------------------------------- |
+| **Freelance Development**     | ✅ Available  | Custom web applications, APIs, full-stack solutions                 |
+| **Technical Consulting**      | ⚠️ Limited   | Architecture reviews, tech stack guidance, performance optimization |
+| **Code Review & Mentorship**  | ✅ Open (OSS) | Pull request reviews, best practices for junior developers          |
+| **Open Source Collaboration** | ✅ Open       | Feature development, bug fixes, documentation improvements          |
+
 📬 Preferred Contact Channels
 
 Project & Freelance Inquiries:
