@@ -55,23 +55,43 @@
 
 ---
 
-<!-- GitHub Stats with custom theme -->
-## 📈 **GitHub Analytics**
+## 📈 GitHub Analytics
 
-<div align="center">
-  
-  <!-- Streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kenenisaboru&theme=radical&hide_border=true&fire=7E3ACE&stroke=0000&background=0D1117" alt="streak stats" height="180"/>
-  
-  <!-- Main stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Kenenisaboru&show_icons=true&theme=radical&hide_title=true&hide_border=true&bg_color=0D1117&icon_color=7E3ACE&text_color=FFFFFF" height="180"/>
+<p align="center">
 
-  <!-- Language stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenenisaboru&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7E3ACE" height="180"/>
-  
-  <!-- Trophy case -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Kenenisaboru&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7&rank=SSS,SS,S,AAA,AA,A,B" alt="profile trophies"/>
-</div>
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Kenenisaboru&show_icons=true&theme=radical&hide_border=true" 
+    height="170"
+  />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenenisaboru&layout=compact&theme=radical&hide_border=true" 
+    height="170"
+  />
+
+</p>
+
+<p align="center">
+
+  <!-- Streak Stats (NEW MIRROR) -->
+  <img 
+    src="https://streak-stats.demolab.com?user=Kenenisaboru&theme=radical&hide_border=true" 
+    height="170"
+  />
+
+</p>
+
+<p align="center">
+
+  <!-- GitHub Trophies -->
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Kenenisaboru&theme=radical&no-frame=true&margin-w=10" 
+  />
+
+</p>
+
 
 ---
 
