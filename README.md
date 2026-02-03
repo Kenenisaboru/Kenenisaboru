@@ -54,7 +54,6 @@
 
 
 ---
-
 ## 📈 GitHub Analytics
 
 <p align="center">
@@ -62,36 +61,26 @@
   <!-- GitHub Stats -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Kenenisaboru&show_icons=true&theme=radical&hide_border=true" 
-    height="170"
+    height="160"
   />
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenenisaboru&layout=compact&theme=radical&hide_border=true" 
-    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Kenenisaboru&layout=compact&theme=radical&hide_border=true" 
+    height="160"
   />
 
 </p>
 
 <p align="center">
 
-  <!-- Streak Stats (NEW MIRROR) -->
+  <!-- Streak Stats (Alternative) -->
   <img 
-    src="https://streak-stats.demolab.com?user=Kenenisaboru&theme=radical&hide_border=true" 
-    height="170"
+    src="https://streak-stats.vercel.app/?user=Kenenisaboru&theme=radical&hide_border=true" 
+    height="140"
   />
 
 </p>
-
-<p align="center">
-
-  <!-- GitHub Trophies -->
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Kenenisaboru&theme=radical&no-frame=true&margin-w=10" 
-  />
-
-</p>
-
 
 ---
 
