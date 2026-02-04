@@ -56,12 +56,14 @@
 ---
 ## 📈 GitHub Analytics
 
+## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kenenisaboru&show_icons=true&theme=radical)
+
+## 🧠 Most Used Languages
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenenisaboru&layout=compact&theme=radical)
 
-
-
-<p align="center">
 
   <!-- Streak Stats (Alternative) -->
   <img 
