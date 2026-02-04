@@ -54,7 +54,7 @@
 
 
 ---
-## 📈 GitHub Analytics
+# 📈 GitHub Analytics
 
 ## 📊 GitHub Stats
 
@@ -64,14 +64,11 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenenisaboru&layout=compact&theme=radical)
 
-
-  <!-- Streak Stats (Alternative) -->
-  <img 
-    src="https://streak-stats.vercel.app/?user=Kenenisaboru&theme=radical&hide_border=true" 
-    height="140"
-  />
-
-</p>
+<!-- Streak Stats (Alternative) -->
+<img
+  src="https://streak-stats.vercel.app/?user=Kenenisaboru&theme=radical&hide_border=true"
+  height="140"
+/>
 
 ---
 
