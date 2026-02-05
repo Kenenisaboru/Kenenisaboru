@@ -53,33 +53,35 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Kenenisaboru&show_icons=true&theme=radical&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenenisaboru&layout=compact&theme=radical&hide_border=true"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.vercel.app/?user=Kenenisaboru&theme=radical&hide_border=true"
+    height="140"
+  />
+</p>
+
 ---
-# 📈 GitHub Analytics
 
-## 📊 GitHub Stats
+### 🏫 School Management System — Upgraded Key Features
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kenenisaboru&show_icons=true&theme=radical)
+- 📊 **Real-time attendance & grade tracking**
+- 👨‍🏫 **Separate portals for Admin, Teachers & Students**
+- 📱 **Progressive Web App (PWA) support**
+- 📈 **Analytics dashboard for performance insights**
 
-## 🧠 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenenisaboru&layout=compact&theme=radical)
-
-<!-- Streak Stats (Alternative) -->
-<img
-  src="https://streak-stats.vercel.app/?user=Kenenisaboru&theme=radical&hide_border=true"
-  height="140"
-/>
-
----
-
-<!-- Projects cards -->
-  <p><strong> Upgrade my school managment project Key Features:</strong></p>
-  <ul>
-    <li>📊 Real-time attendance & grade tracking</li>
-    <li>👨‍🏫 Separate portals for Admin, Teachers, Students</li>
-    <li>📱 Progressive Web App (PWA) capabilities</li>
-    <li>📈 Analytics dashboard for performance insights</li>
-  </ul>
   
   <p><strong>Tech Stack:</strong> React · Node.js · Express · MySQL · Socket.io · JWT</p>
   
