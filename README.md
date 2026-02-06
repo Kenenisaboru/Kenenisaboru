@@ -1,7 +1,6 @@
 <!-- Header with animated typing effect and profile view counter -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?
-  font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=7E3ACE&center=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Kenenisa+Boru;Full-Stack+Developer+%F0%9F%8C%90;CS+Student+%F0%9F%8E%93;Open-Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=7E3ACE&center=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Kenenisa+Boru;Full-Stack+Developer+%F0%9F%8C%90;CS+Student+%F0%9F%8E%93;Open-Source+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <div align="center">
