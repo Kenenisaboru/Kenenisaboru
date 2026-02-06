@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kenenisaboru&label=Profile+Views&color=7E3ACE&style=flat" alt="profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=Kenenisaboru&label=Profile+Views&color=7E3ACE&style=flat" alt="profile views" />
   <a href="https://github.com/Kenenisaboru?tab=followers"><img src="https://img.shields.io/github/followers/Kenenisaboru?color=7E3ACE&logo=github&style=flat" alt="GitHub followers" /></a>
 </div>
 
