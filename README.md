@@ -54,13 +54,16 @@
 
 ## 📊 GitHub Stats
 
-![Repos](https://img.shields.io/badge/Public%20Repos-32-brightgreen)
-![Followers](https://img.shields.io/github/followers/Kenenisaboru?style=flat)
-![Stars](https://img.shields.io/github/stars/Kenenisaboru?style=flat)
-![Commits](https://img.shields.io/github/commit-activity/m/Kenenisaboru)
-![Last Commit](https://img.shields.io/github/last-commit/Kenenisaboru)
+## 📊 GitHub Stats
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Kenenisaboru&theme=flat&no-frame=true)
+![Repos](https://img.shields.io/badge/Public%20Repos-32-brightgreen)
+![Followers](https://img.shields.io/github/followers/Kenenisaboru)
+![Stars](https://img.shields.io/github/stars/Kenenisaboru)
+
+### 📌 Activity (Public Repo)
+![Commits](https://img.shields.io/github/commit-activity/m/Kenenisaboru/REPO_NAME)
+![Last Commit](https://img.shields.io/github/last-commit/Kenenisaboru/REPO_NAME)
+
 
 
 ---
