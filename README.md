@@ -53,16 +53,16 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ## 📊 GitHub Stats
-
 ## 📊 GitHub Stats
 
 ![Repos](https://img.shields.io/badge/Public%20Repos-32-brightgreen)
-![Followers](https://img.shields.io/github/followers/Kenenisaboru)
-![Stars](https://img.shields.io/github/stars/Kenenisaboru)
+![Followers](https://img.shields.io/github/followers/Kenenisaboru?style=social)
+![Stars](https://img.shields.io/github/stars/Kenenisaboru?affiliations=OWNER&style=social)
 
-### 📌 Activity (Public Repo)
-![Commits](https://img.shields.io/github/commit-activity/m/Kenenisaboru/REPO_NAME)
-![Last Commit](https://img.shields.io/github/last-commit/Kenenisaboru/REPO_NAME)
+## 📈 Profile Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kenenisaboru&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenenisaboru&layout=compact&theme=radical)
 
 
 
