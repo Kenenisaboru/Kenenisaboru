@@ -131,6 +131,13 @@
   <summary>📊 <b>Detailed GitHub Metrics</b></summary>
   <br/>
   <img src="https://github.com/Kenenisaboru/Kenenisaboru/blob/main/github-metrics.svg" alt="Detailed GitHub Metrics"/>
+  ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kenenisaboru&show_icons=true&count_private=true&include_all_commits=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenenisaboru&layout=compact&count_private=true&langs_count=8&theme=default)
+
+---
 </details>
 
 ---
