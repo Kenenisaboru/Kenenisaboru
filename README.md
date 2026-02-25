@@ -52,11 +52,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenenisaboru&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?kenenisaboru=Kenenisaboru&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?kenenisaboru=Kenenisaboru&layout=compact&count_private=true&langs_count=8&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenenisaboru&layout=compact&count_private=true&langs_count=8&theme=radical)
 
 
 
