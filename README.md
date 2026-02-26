@@ -1,6 +1,4 @@
-<!-- ===================================== -->
-<!-- GitHub Profile README - Pro Level -->
-<!-- ===================================== -->
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=7E3ACE&center=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Kenenisa+Boru;Advanced+Full-Stack+Developer+%F0%9F%92%BB;Information+Science+Student+%F0%9F%93%93;Open-Source+Contributor" alt="Typing SVG" />
