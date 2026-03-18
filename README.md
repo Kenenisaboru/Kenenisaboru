@@ -66,7 +66,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenenisaboru&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenenisaboru&show_icons=true&count_private=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenenisaboru&layout=compact&count_private=true&langs_count=8&theme=radical)
 
