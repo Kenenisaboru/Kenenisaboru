@@ -65,10 +65,12 @@
 ---
 
 ## 📊 GitHub Stats
+
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenenisaboru&layout=compact&langs_count=8&theme=radical&hide_border=true)
+
 <!-- GitHub Stats -->
-![Kenenisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenenisaboru&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenenisaboru&show_icons=true&theme=radical&hide_border=true)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kenenisaboru&theme=react-dark&bg_color=0D1117&hide_border=true&area=true)](https://github.com/Kenenisaboru)
 
