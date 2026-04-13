@@ -61,16 +61,14 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
----
-
+------
 ## 📊 GitHub Stats
 
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenenisaboru&layout=compact&langs_count=8&theme=radical&hide_border=true)
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kenenisaboru&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kenenisaboru&show_icons=true&count_private=true&theme=radical&hide_border=true)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kenenisaboru&theme=react-dark&bg_color=0D1117&hide_border=true&area=true)](https://github.com/Kenenisaboru)
 
