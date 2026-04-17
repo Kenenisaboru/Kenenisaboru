@@ -63,7 +63,11 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ------
 ## 📊 GitHub Stats
-![GitHub Profile](https://github-readme-stats.vercel.app/api?username=Kenenisaboru&show_icons=true&cache_seconds=3600)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kenenisaboru&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenenisaboru&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kenenisaboru&theme=react-dark&bg_color=0D1117&hide_border=true&area=true)](https://github.com/Kenenisaboru)
 
