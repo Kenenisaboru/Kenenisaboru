@@ -1,5 +1,5 @@
 import Link from "next/link"
-import { ArrowRight, Github, Linkedin, Mail, Code2 } from "lucide-react"
+import { ArrowRight, Github, Linkedin, Mail, Code2 } from "./icons"
 
 export function Hero() {
   return (

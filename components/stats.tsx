@@ -1,4 +1,4 @@
-import { Trophy, Flame, Target } from "lucide-react"
+import { Trophy, Flame, Target } from "./icons"
 
 const stats = [
   {

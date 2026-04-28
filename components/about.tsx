@@ -1,4 +1,4 @@
-import { GraduationCap, Code, Server, Users } from "lucide-react"
+import { GraduationCap, Code, Server, Users } from "./icons"
 
 const highlights = [
   {

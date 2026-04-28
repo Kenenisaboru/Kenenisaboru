@@ -1,5 +1,5 @@
 import Link from "next/link"
-import { ArrowUpRight, Github } from "lucide-react"
+import { ArrowUpRight, Github } from "./icons"
 
 const projects = [
   {

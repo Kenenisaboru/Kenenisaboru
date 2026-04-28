@@ -1,5 +1,5 @@
 import Link from "next/link"
-import { Mail, Github, Linkedin, Briefcase, ArrowUpRight } from "lucide-react"
+import { Mail, Github, Linkedin, Briefcase, ArrowUpRight } from "./icons"
 
 const channels = [
   {
