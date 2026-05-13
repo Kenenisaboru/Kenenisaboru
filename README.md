@@ -65,17 +65,13 @@
 ## 📊 GitHub Stats
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Kenenisaboru&show_icons=true&theme=tokyonight&cache_seconds=1800" 
-    width="48%" 
-  />
+<div align="center">
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenenisaboru&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=1800" 
-    width="48%" 
-  />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kenenisaboru&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenenisaboru&layout=compact&theme=tokyonight" />
+
+</div>
 
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kenenisaboru&theme=react-dark&bg_color=0D1117&hide_border=true&area=true)](https://github.com/Kenenisaboru)
