@@ -63,13 +63,12 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ------
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kenenisaboru&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kenenisaboru&show_icons=true&theme=radical" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenenisaboru&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenenisaboru&layout=compact&theme=radical" />
 
 </div>
 
