@@ -19,7 +19,7 @@
 ## 🌟 **About Me**
 
 - 💻 Advanced full-stack developer specializing in **React, Node.js, Next.js, and PostgreSQL/MongoDB**  
-- 🎓 Information Science student @ Haramaya University  
+- 🎓 Computer science student @ Haramaya University  
 - 🧩 Passionate about **building scalable, maintainable, and performance-driven applications**  
 - 🔥 Focused on **backend architecture, system design, and DSA mastery**  
 - 🌐 Open-source contributor & hackathon enthusiast  
