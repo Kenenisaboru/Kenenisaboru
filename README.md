@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=7E3ACE&center=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Kenenisa+Boru;Advanced+Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Systems+Builder+%F0%9F%A4%96;Computer+Science+Student+%40+Haramaya+University;Open-Source+Contributor+%7C+Freelancer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=7E3ACE&center=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Kenenisa+Boru;Full-Stack+Engineer+%F0%9F%92%BB;Systems+Developer+%F0%9F%8F%97%EF%B8%8F;AI+%26+Product+Builder+%F0%9F%A4%96;Open-Source+Contributor+%7C+Freelancer" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -19,9 +19,9 @@
 
 ## 🌟 About Me
 
-I'm a full-stack developer and Computer Science student who engineers real-world solutions — from AI-powered agricultural marketplaces connecting Ethiopian farmers to health diagnostics platforms and cross-university student networks. I don't just write code; I build infrastructure that matters.
+I'm a Full-Stack Engineer and Systems Developer who engineers real-world solutions — from AI-powered agricultural marketplaces connecting Ethiopian farmers to health diagnostics platforms and cross-university student networks. I don't just write code; I build infrastructure that matters.
 
-- 🎓 **Computer Science** student at **Haramaya University**, Ethiopia
+- 💻 **Full-Stack Engineer & Systems Developer** crafting scalable, production-grade applications
 - 🤖 Building **AI-integrated, production-ready** platforms with real social impact
 - 💻 Core stack: **React · Next.js · Node.js · PostgreSQL / MongoDB**
 - 🧠 Consistent algorithm practitioner on LeetCode — graphs, DP, trees
