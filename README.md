@@ -18,16 +18,16 @@
 
 ---
 
-## 🎯 Executive Summary
+## 🎯 About Me
 
-**Full-Stack Engineer & Systems Architect** designing and deploying **production-grade platforms** that drive measurable impact across agriculture, healthcare, and education in Ethiopia. Specializing in **AI-integrated architectures**, scalable backend systems, and user-centric frontend experiences.
+**Full-Stack Engineer** building scalable, production-ready applications with a focus on clean architecture and user impact. I specialize in full-stack development with **React, Node.js, and modern databases**, with hands-on experience integrating **AI/LLM technologies** into real-world products.
 
-**Impact Profile:**
-- 🚀 **3 production platforms** serving **10K+ active users**
-- 🤖 **AI/LLM integrations** with real-time inference & optimization
-- 📊 **System design expertise** in distributed systems & scalable databases
-- 🏆 **45+ day GitHub streak** | **Top 30% LeetCode rating** | **25+ algorithmic problems solved**
-- 💼 **Trusted by startups & enterprises** on Upwork (**5-star rated**)
+**Quick Overview:**
+- 💻 Full-stack development: React, Next.js, Node.js, Express
+- 🤖 AI integration: OpenAI, LangChain, prompt engineering
+- 📊 Database design: PostgreSQL, MongoDB, Redis
+- 🏆 Consistent learner: 45+ GitHub streak, LeetCode Top 30%
+- 💼 Freelance experience on Upwork
 
 ---
 
@@ -35,143 +35,95 @@
 
 ### 1️⃣ AgriLink — AI-Powered Agricultural Marketplace
 
-> **Transforming Ethiopian agriculture through intelligent supply-chain digitization**
+> **Connecting Ethiopian farmers and buyers through intelligent technology**
 
-An enterprise-grade, **full-stack AI marketplace** connecting Ethiopian farmers directly to buyers, eliminating intermediaries and reducing agricultural losses by leveraging predictive analytics and smart matching algorithms.
+A full-stack platform designed to improve agricultural trade by connecting farmers directly with buyers. Features AI-driven crop recommendations, real-time pricing, and a matching algorithm for buyers and sellers.
 
-**📈 Real Impact:**
-- **500+ farmers onboarded** | **2.5K+ transactions** | **$125K+ in trade volume**
-- **40% reduction in transaction time** through AI-powered matching
-- **Real-time pricing engine** preventing market exploitation
-- **Mobile-first design** optimized for 2G networks in rural areas
+**Key Features:**
+- AI-powered crop recommendations and market insights
+- Real-time buyer-seller matching and chat
+- Market trend analytics dashboard
+- Location-based filtering for Ethiopian regions
+- Mobile-responsive design for rural accessibility
+- Secure authentication with role-based access
 
-**🏗️ Architecture Highlights:**
-- **Frontend:** React + Redux + TailwindCSS (mobile-first responsive)
-- **Backend:** Node.js/Express with microservices for AI, payments, chat
-- **AI Engine:** LLM-powered crop recommendations + Prophet time-series forecasting
-- **Database:** MongoDB (farmer profiles, listings) + Redis (caching real-time data)
-- **Infrastructure:** Docker + Render with auto-scaling for peak traffic
-- **Payment Integration:** Stripe integration for secure transactions
+**🏗️ Tech Stack:**
+React · Node.js/Express · MongoDB · Redis · OpenAI API · Docker · Render
 
-**🔐 Enterprise Features:**
-- JWT-based role-based access control (Farmer | Buyer | Admin | AI Agent)
-- Real-time WebSocket chat with negotiation history
-- Encrypted sensitive data (payment info, phone numbers)
-- Rate limiting & DDoS protection at API layer
+**💡 What I Built:**
+- Full-stack architecture from database to frontend
+- AI integration for crop recommendations
+- Real-time WebSocket chat system
+- Optimized API with caching layer
 
-**💡 Technical Achievements:**
-- Reduced API response time from 800ms → 120ms (caching layer)
-- Implemented vector similarity search for semantic crop matching
-- Batch processing pipeline for nightly market analytics
-
-**🔗 [Live Demo →](https://agrilink-frontend-web.onrender.com/)** | [GitHub Repo](https://github.com/Kenenisaboru/agrilink)
+**🔗 [Live Demo →](https://agrilink-frontend-web.onrender.com/)** | [GitHub](https://github.com/Kenenisaboru/agrilink)
 
 ---
 
-### 2️⃣ HealthInsight AI — Intelligent Health Diagnostics Platform
+### 2️⃣ HealthInsight AI — Health Diagnostics Platform
 
-> **Democratizing healthcare access through conversational AI**
+> **AI-powered health insights and symptom analysis**
 
-A **production-ready health intelligence platform** leveraging cutting-edge LLM technology to provide instant symptom analysis, personalized health insights, and evidence-based recommendations — accessible to populations with limited medical infrastructure.
+A health intelligence platform that uses AI to provide symptom analysis and health recommendations. Built with modern frontend practices and integrated with OpenAI for intelligent responses.
 
-**📈 Real Impact:**
-- **5K+ health assessments** conducted monthly
-- **92% user satisfaction rate** on diagnostic accuracy
-- **50+ conditions** identified with contextual guidance
-- **7 languages supported** (including Amharic)
+**Key Features:**
+- AI symptom checker with condition analysis
+- Personalized health recommendations
+- Multi-language support
+- Clean, accessible UI
+- Real-time AI inference
 
-**🏗️ Architecture Highlights:**
-- **Frontend:** React + Next.js with server-side rendering for performance
-- **AI/LLM:** OpenAI API + LangChain for prompt engineering & context management
-- **RAG Implementation:** Vector embeddings of medical knowledge base (Pinecone)
-- **Real-time Inference:** Sub-500ms response times for symptom analysis
-- **UI/UX:** Lovable component system + Tailwind CSS for accessibility
+**🏗️ Tech Stack:**
+React · Next.js · OpenAI API · LangChain · TailwindCSS · Lovable
 
-**🔐 Healthcare Compliance:**
-- HIPAA-adjacent data handling practices
-- End-to-end encrypted health records
-- Audit logging for all diagnostic queries
-- Privacy-first architecture (no user data sold)
+**💡 What I Built:**
+- Multi-turn conversation state management
+- Prompt engineering for medical context
+- Integration with LLM APIs
+- Responsive UI with accessibility focus
 
-**💡 Technical Achievements:**
-- Implemented multi-turn conversation state management
-- Fine-tuned prompt templates for 50+ condition detection
-- Built feedback loop for continuous model improvement
-
-**🔗 [Live Demo →](https://health-insight-ai-75.lovable.app/)** | [GitHub Repo](https://github.com/Kenenisaboru/healthinsight)
+**🔗 [Live Demo →](https://health-insight-ai-75.lovable.app/)** | [GitHub](https://github.com/Kenenisaboru/healthinsight)
 
 ---
 
-### 3️⃣ Arsi Aseko Student Platform — Cross-University Collaboration Hub
+### 3️⃣ Arsi Aseko Student Platform — Student Collaboration Network
 
-> **One digital campus for every student, everywhere**
+> **Connecting students across Ethiopian universities**
 
-A **centralized collaboration platform** unifying fragmented student communities across Ethiopia's universities, eliminating information silos and enabling peer-to-peer learning at scale.
+A collaboration platform for students at different universities to share resources, coordinate events, and network with peers. Built with real-time features for instant communication and updates.
 
-**📈 Real Impact:**
-- **3,200+ active students** across 8 universities
-- **1,500+ events coordinated** this academic year
-- **45K+ resource shares** in academic library
-- **92% retention rate** (month-over-month)
+**Key Features:**
+- Multi-university student portal
+- Event discovery and coordination
+- Real-time peer messaging
+- Shared academic resources library
+- Smart notifications
+- Student profile and interest matching
 
-**🏗️ Architecture Highlights:**
-- **Frontend:** React with dynamic institution-specific feed routing
-- **Backend:** Node.js/Express with PostgreSQL for relational data integrity
-- **Real-time Features:** Socket.io for live notifications, chat, event updates
-- **Authentication:** JWT + refresh token rotation, multi-factor auth ready
-- **Deployment:** Vercel Edge Functions for low-latency API responses
+**🏗️ Tech Stack:**
+React · Node.js/Express · PostgreSQL · Socket.io · JWT · Vercel
 
-**🔌 Advanced Features:**
-- Smart recommendation engine (students with similar interests)
-- Automated event scheduling conflict detection
-- Resource versioning & collaborative document editing
-- Admin dashboard with institutional analytics
+**💡 What I Built:**
+- Full-stack architecture with PostgreSQL
+- Real-time features using Socket.io
+- Institution-specific feed system
+- Dashboard with analytics
+- JWT-based authentication
 
-**💡 Technical Achievements:**
-- Optimized database queries reducing load time by 60%
-- Implemented WebSocket connection pooling for 3K concurrent users
-- Built custom notification queue system (preventing message loss)
-
-**🔗 [Live Demo →](https://student-platform-murex.vercel.app/)** | [GitHub Repo](https://github.com/Kenenisaboru/arsi-aseko-platform)
+**🔗 [Live Demo →](https://student-platform-murex.vercel.app/)** | [GitHub](https://github.com/Kenenisaboru/arsi-aseko-platform)
 
 ---
 
-## 🛠️ Tech Stack — Production-Grade
+## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <th>Category</th>
-    <th>Technologies</th>
-  </tr>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>React · Next.js · TypeScript · TailwindCSS · Redux · React Query</td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>Node.js · Express · REST APIs · GraphQL · WebSocket · Socket.io</td>
-  </tr>
-  <tr>
-    <td><strong>AI/ML</strong></td>
-    <td>OpenAI API · LangChain · RAG (Pinecone/Weaviate) · LLM Fine-tuning · Prompt Engineering</td>
-  </tr>
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td>PostgreSQL · MongoDB · Redis · Elasticsearch</td>
-  </tr>
-  <tr>
-    <td><strong>Infrastructure</strong></td>
-    <td>Docker · Vercel · Render · GitHub Actions (CI/CD) · AWS Lambda</td>
-  </tr>
-  <tr>
-    <td><strong>Authentication</strong></td>
-    <td>JWT · OAuth 2.0 · Session Management · 2FA Ready</td>
-  </tr>
-  <tr>
-    <td><strong>Testing & Quality</strong></td>
-    <td>Jest · Mocha · Postman · SonarQube · E2E Testing (Cypress)</td>
-  </tr>
-</table>
+| Area | Technologies |
+|------|---------------|
+| **Frontend** | React, Next.js, TypeScript, TailwindCSS, Redux, React Query |
+| **Backend** | Node.js, Express, REST APIs, GraphQL, Socket.io, JWT |
+| **Databases** | PostgreSQL, MongoDB, Redis |
+| **AI/LLM** | OpenAI API, LangChain, Prompt Engineering |
+| **DevOps** | Docker, Git, GitHub Actions, Vercel, Render |
+| **Testing** | Jest, Mocha, Postman |
 
 ---
 
@@ -195,141 +147,116 @@ A **centralized collaboration platform** unifying fragmented student communities
 
 ---
 
-## 🎓 Algorithm Mastery
+## 🧠 Coding & Algorithms
 
-<table>
-  <tr>
-    <td align="center">
-      <strong>LeetCode Statistics</strong><br/>
-      25+ Hard Problems<br/>
-      45+ Day Streak<br/>
-      <strong>Top 30%</strong> Contest Rating<br/>
-      <a href="https://leetcode.com/u/kananisa/">View Profile →</a>
-    </td>
-    <td align="center">
-      <strong>Problem Categories</strong><br/>
-      📊 Dynamic Programming<br/>
-      🔗 Graphs & Trees<br/>
-      💰 Greedy Algorithms<br/>
-      📈 Sliding Window & Two Pointers<br/>
-      🎯 System Design Prep
-    </td>
-  </tr>
-</table>
+I actively practice algorithms on LeetCode, focusing on:
+- **Dynamic Programming** — Optimization problems
+- **Graphs & Trees** — Traversal and search algorithms  
+- **Data Structures** — Arrays, Heaps, Hash Tables
+- **System Design** — Architecture and scalability
+
+**Stats:** 25+ Hard problems solved | 45+ day streak | Top 30% rating
+
+[View my LeetCode profile →](https://leetcode.com/u/kananisa/)
 
 ---
 
-## 🏗️ Engineering Approach
+## 🏗️ My Approach
 
-**Software Architecture:**
-- ✅ **Clean Code Principles** — SOLID design, DRY, KISS
-- ✅ **Design Patterns** — Factory, Observer, Middleware, Repository
-- ✅ **Scalability First** — Load balancing, caching layers, database sharding considerations
-- ✅ **Security Hardened** — OWASP Top 10 compliance, rate limiting, input validation
+**Code Quality:**
+- Clean, readable code with SOLID principles
+- Testing with Jest and Mocha
+- Version control best practices with Git
+- Code reviews and documentation
+
+**Backend Development:**
+- RESTful API design
+- Database optimization (indexing, query performance)
+- Authentication with JWT
+- Real-time features with WebSockets
+
+**Frontend Development:**
+- Responsive, mobile-first design
+- Performance optimization (lazy loading, code splitting)
+- Accessible UI following WCAG standards
+- Component-based architecture with React
 
 **DevOps & Deployment:**
-- ✅ **CI/CD Pipelines** — GitHub Actions for automated testing & deployment
-- ✅ **Containerization** — Docker multi-stage builds, minimal image sizes
-- ✅ **Monitoring** — Error tracking (Sentry), performance monitoring (DataDog ready)
-- ✅ **Infrastructure as Code** — Docker Compose for local dev parity
-
-**AI Integration Best Practices:**
-- ✅ **Prompt Engineering** — Few-shot learning, chain-of-thought patterns
-- ✅ **RAG Pipelines** — Vector embeddings, semantic search, fact grounding
-- ✅ **Cost Optimization** — Token usage monitoring, batch processing
-- ✅ **Safety & Compliance** — Input sanitization, output validation, bias mitigation
+- Docker containerization
+- CI/CD with GitHub Actions
+- Deployment to Vercel, Render, AWS
+- Monitoring and error tracking
 
 ---
 
-## 🎯 Additional Expertise
+## 💻 Core Skills
 
-### Full-Stack Capabilities
-- **Database Design:** Schema optimization, indexing strategies, query performance tuning
-- **API Design:** RESTful conventions, GraphQL schema design, rate limiting
-- **Frontend Optimization:** Code splitting, lazy loading, image optimization, Core Web Vitals
-- **Security:** Data encryption, secure headers, CORS management, input validation
+**Frontend:** React, Next.js, TypeScript, TailwindCSS, Redux, Responsive Design
 
-### System Design Readiness
-- Designed distributed systems handling 10K+ concurrent users
-- Implemented multi-tier architecture with horizontal scaling
-- Built event-driven systems with message queues
-- Experience with microservices & monolithic tradeoffs
+**Backend:** Node.js, Express, REST APIs, GraphQL, JWT, Authentication
+
+**Databases:** PostgreSQL, MongoDB, Redis, Database Optimization
+
+**AI/LLM:** OpenAI API, LangChain, Prompt Engineering
+
+**DevOps:** Docker, GitHub Actions, Vercel, Render, AWS
+
+**Tools:** Git, Postman, Jest, VS Code, Linux/Ubuntu
 
 ---
 
-## 💼 Professional Experience Summary
+## 💼 Experience
 
 **Freelance Full-Stack Engineer** — Upwork
-- ⭐ 5-star rated across 20+ projects
-- Specialized in MVP development and architecture consultation
-- Average project value: $2,500-$8,000
-- 98% on-time delivery rate
+- Completed 20+ projects with positive client feedback
+- Specialized in full-stack development and architecture
+- Available for contract and project-based work
 
-**Open-Source Contributor**
-- Active in developer communities
-- Contributed to 5+ repositories
-- Strong GitHub profile (public work & impact)
+**Open-Source Contributions**
+- Active GitHub contributor
+- Participating in developer communities
+- Building public projects and tools
 
 ---
 
-## 📚 Notable Solutions
+## 📚 Other Projects
 
 <details>
-<summary><strong>🔧 School Management System</strong> — Full-Stack Education Platform</summary>
+<summary><strong>🏫 School Management System</strong></summary>
 
-A production-ready school management solution with real-time data synchronization for administrators, teachers, and students.
+A full-stack school management platform with real-time attendance tracking, grade management, and role-based dashboards.
 
-**Key Features:**
-- Real-time attendance tracking & grade updates (Socket.io)
-- Role-based dashboards with JWT authentication
-- Analytics with PWA support (offline access)
-- Automated report generation
+**Features:** Real-time updates, JWT auth, PWA support, role-based access
 
-**Stack:** React · Node.js/Express · MySQL · Socket.io
+**Stack:** React · Node.js · MySQL · Socket.io
 
-**GitHub:** [Frontend](https://github.com/Kenenisaboru/school-management-system) | [Backend](https://github.com/Kenenisaboru/school-management-backend)
+[Frontend Repo](https://github.com/Kenenisaboru/school-management-system) | [Backend Repo](https://github.com/Kenenisaboru/school-management-backend)
 </details>
 
 <details>
-<summary><strong>📈 LeetCode & Algorithm Repository</strong> — 25+ Optimized Solutions</summary>
+<summary><strong>📈 Algorithm Solutions</strong></summary>
 
-A comprehensive collection of optimized algorithmic solutions with detailed complexity analysis and multiple approaches per problem.
+Collection of 25+ optimized LeetCode solutions with detailed explanations and complexity analysis.
 
-**Focus Areas:**
-- Dynamic Programming (DP optimization patterns)
-- Graph Algorithms (DFS, BFS, Dijkstra variants)
-- Tree Traversals & Binary Search Tree problems
-- Advanced data structures (Heaps, Tries, Segment Trees)
+**Topics:** Dynamic Programming, Graphs, Trees, Data Structures
 
-**GitHub:** [Solutions Repository](https://github.com/Kenenisaboru/leetcode-solutions)
+[View Repository](https://github.com/Kenenisaboru/leetcode-solutions)
 </details>
 
 ---
 
-## 🎓 What Drives Me
+## 🎯 What I'm Looking For
 
-> *I don't just build applications — I engineer systems that solve real problems for real people.*
-
-- **Impact Obsessed:** Every project measured by user value & measurable outcomes
-- **Continuous Learning:** Daily algorithm practice, staying ahead of tech trends
-- **Quality Focused:** Refactoring as a sport, automated testing, code reviews
-- **Collaborative:** Mentoring junior developers, contributing to open-source
-- **Solutions Oriented:** From concept → architecture → implementation → monitoring
+- Full-stack development projects (React + Node.js)
+- AI integration and LLM-based applications
+- Freelance and contract opportunities
+- Collaboration with teams on meaningful projects
 
 ---
 
-## 🤝 Let's Build Together
+## 🤝 Let's Connect
 
 <div align="center">
-  
-  **I'm actively seeking opportunities in:**
-  - 🚀 Scaling platforms from 0→1 (architecture & implementation)
-  - 🤖 AI/ML product integration (RAG, LLM fine-tuning)
-  - 💼 Technical leadership & mentorship roles
-  - 🌍 Impact-driven projects in emerging markets
-
-  ---
-
   <a href="https://kanu-wiz.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-0A66C2?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
@@ -345,28 +272,13 @@ A comprehensive collection of optimized algorithmic solutions with detailed comp
   <a href="mailto:kenenisaboru998@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logoColor=white" alt="Email"/>
   </a>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/QHE0BZW8Jx8VH3tVmN/giphy.gif" width="120" alt="Code GIF"/>
-  <br/>
-  <br/>
-  <i>
-    <strong>Engineering solutions. Architecting impact. Building scale.</strong><br/>
-    One commit, one system, one achievement at a time. 🚀
-  </i>
-  <br/>
-  <br/>
-  <a href="https://github.com/Kenenisaboru">
-    <img src="https://img.shields.io/badge/Follow_for_Updates-7E3ACE?style=flat-square&logo=github" alt="Follow"/>
-  </a>
 </div>
 
 ---
 
 <p align="center">
-  <sub>Last updated: June 2026 | Actively open to opportunities 🚀</sub>
+  <i>Building web applications with clean code and solid architecture</i><br/>
+  <a href="https://github.com/Kenenisaboru">
+    <img src="https://img.shields.io/badge/View_My_Work-7E3ACE?style=flat-square&logo=github" alt="GitHub"/>
+  </a>
 </p>
