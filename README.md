@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=7E3ACE&center=true&width=800&lines=Kenenisa+Boru+🚀;Full-Stack+Engineer+%7C+Systems+Architect;AI-Driven+Solutions+Builder;Building+Scale+%26+Impact" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=800&color=7E3ACE&center=true&width=900&lines=👋+Kenenisa+Boru;Full-Stack+Engineer+🚀;AI+%26+Systems+Architect+⚙️;Building+Products+That+Matter+💡" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kenenisaboru&label=Profile+Views&color=7E3ACE&style=flat-square&abbreviated=true" alt="profile views" />
@@ -14,11 +14,23 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="200" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=3000&pause=1000&color=00F7FF&center=true&width=700&lines=Welcome+to+my+GitHub+Profile;Let's+build+amazing+things+together" alt="Welcome" />
+</div>
+
 <br />
 
 ---
 
 ## 🎯 About Me
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00F7FF&center=true&width=650&lines=Full-Stack+Developer+💻;AI+Integration+Specialist+🤖;Database+Architect+📊;Problem+Solver+🎯" alt="About" />
 
 **Full-Stack Engineer** building scalable, production-ready applications with a focus on clean architecture and user impact. I specialize in full-stack development with **React, Node.js, and modern databases**, with hands-on experience integrating **AI/LLM technologies** into real-world products.
 
@@ -31,7 +43,11 @@
 
 ---
 
-## 🌟 Featured Projects
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF6B6B&center=true&width=500&lines=⭐+Featured+Projects+⭐" alt="Projects" />
+</div>
+
+<br>
 
 ### 1️⃣ AgriLink — AI-Powered Agricultural Marketplace
 
@@ -114,7 +130,11 @@ React · Node.js/Express · PostgreSQL · Socket.io · JWT · Vercel
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF7F&center=true&width=500&lines=🛠️+Tech+Stack" alt="Tech" />
+</div>
+
+## 
 
 | Area | Technologies |
 |------|---------------|
@@ -127,7 +147,11 @@ React · Node.js/Express · PostgreSQL · Socket.io · JWT · Vercel
 
 ---
 
-## 📊 Performance & Metrics
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFD700&center=true&width=500&lines=📊+GitHub+Analytics" alt="Stats" />
+</div>
+
+## 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kenenisaboru&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=7E3ACE" />
@@ -147,7 +171,11 @@ React · Node.js/Express · PostgreSQL · Socket.io · JWT · Vercel
 
 ---
 
-## 🧠 Coding & Algorithms
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=9D4EDD&center=true&width=500&lines=🧠+Algorithms+%26+DSA" alt="Algorithms" />
+</div>
+
+## 
 
 I actively practice algorithms on LeetCode, focusing on:
 - **Dynamic Programming** — Optimization problems
@@ -161,7 +189,11 @@ I actively practice algorithms on LeetCode, focusing on:
 
 ---
 
-## 🏗️ My Approach
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=06FFA5&center=true&width=500&lines=⚙️+Engineering+Approach" alt="Approach" />
+</div>
+
+## 
 
 **Code Quality:**
 - Clean, readable code with SOLID principles
@@ -189,7 +221,11 @@ I actively practice algorithms on LeetCode, focusing on:
 
 ---
 
-## 💻 Core Skills
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF006E&center=true&width=500&lines=💡+Core+Skills" alt="Skills" />
+</div>
+
+## 
 
 **Frontend:** React, Next.js, TypeScript, TailwindCSS, Redux, Responsive Design
 
@@ -205,7 +241,11 @@ I actively practice algorithms on LeetCode, focusing on:
 
 ---
 
-## 💼 Experience
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&width=500&lines=💼+Professional+Experience" alt="Experience" />
+</div>
+
+## 
 
 **Freelance Full-Stack Engineer** — Upwork
 - Completed 20+ projects with positive client feedback
@@ -219,7 +259,11 @@ I actively practice algorithms on LeetCode, focusing on:
 
 ---
 
-## 📚 Other Projects
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFBE0B&center=true&width=500&lines=📚+Other+Projects" alt="Projects" />
+</div>
+
+## 
 
 <details>
 <summary><strong>🏫 School Management System</strong></summary>
@@ -245,16 +289,13 @@ Collection of 25+ optimized LeetCode solutions with detailed explanations and co
 
 ---
 
-## 🎯 What I'm Looking For
-
-- Full-stack development projects (React + Node.js)
-- AI integration and LLM-based applications
-- Freelance and contract opportunities
-- Collaboration with teams on meaningful projects
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=7E3ACE&center=true&width=550&lines=🚀+Let's+Connect+%26+Collaborate" alt="Connect" />
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 
 
 <div align="center">
   <a href="https://kanu-wiz.netlify.app/" target="_blank">
@@ -276,9 +317,23 @@ Collection of 25+ optimized LeetCode solutions with detailed explanations and co
 
 ---
 
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrMqGsva/giphy.gif" width="50" />
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7E3ACE&center=true&width=600&lines=Always+Learning+📚;Always+Building+🏗️;Always+Growing+🚀" alt="Footer" />
+  <br />
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&color=00F7FF&center=true&width=600&lines=Let's+create+something+amazing+together!" alt="CTA" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Always%20Open%20to%20Opportunities-brightgreen?style=for-the-badge&color=00FF7F" />
+</div>
+
+<br />
+
 <p align="center">
-  <i>Building web applications with clean code and solid architecture</i><br/>
-  <a href="https://github.com/Kenenisaboru">
-    <img src="https://img.shields.io/badge/View_My_Work-7E3ACE?style=flat-square&logo=github" alt="GitHub"/>
-  </a>
+  <sub>⭐ Feel free to explore my repositories and reach out! ⭐</sub>
 </p>
