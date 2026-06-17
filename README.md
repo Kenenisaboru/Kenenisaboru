@@ -248,7 +248,6 @@ I actively practice algorithms on LeetCode, focusing on:
 ## 
 
 **Freelance Full-Stack Engineer** — Upwork
-- Completed 20+ projects with positive client feedback
 - Specialized in full-stack development and architecture
 - Available for contract and project-based work
 
