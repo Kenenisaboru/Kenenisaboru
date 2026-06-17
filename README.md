@@ -17,7 +17,9 @@
 
 <br>
 
-## 🌟 About Me
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Kenenisa+Boru;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB+Learner;Building+Cool+Web+Apps+🚀" />
+</h1>
 
 I'm a Full-Stack Engineer and Systems Developer who engineers real-world solutions — from AI-powered agricultural marketplaces connecting Ethiopian farmers to health diagnostics platforms and cross-university student networks. I don't just write code; I build infrastructure that matters.
 
@@ -34,7 +36,9 @@ I'm a Full-Stack Engineer and Systems Developer who engineers real-world solutio
 
 ---
 
-## 🚀 Top Projects
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6F00&center=true&vCenter=true&width=500&lines=My+Top+Projects;Full+Stack+Applications;Frontend+%26+Backend+Work;Real+World+Systems+💡" />
+</h2>
 
 > Production-deployed platforms serving real communities across Ethiopia.
 
