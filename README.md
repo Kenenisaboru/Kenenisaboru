@@ -15,6 +15,20 @@
 
 ---
 
+<div align="center">
+  <img src="https://media.giphy.com/media/SvckSy7fFvE0upXZeI/giphy.gif" width="300" alt="Developer Working" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Full Stack Developer" />
+</div>
+
+---
+
+---
+
 ## 🎯 Professional Summary
 
 Innovative **Full-Stack Software Engineer** with expertise in architecting and deploying scalable, production-grade applications. Proficient in designing microservices, optimizing system performance, and leveraging AI/ML technologies to deliver intelligent solutions. Committed to software excellence through clean architecture, test-driven development, and continuous optimization.
@@ -83,43 +97,22 @@ Innovative **Full-Stack Software Engineer** with expertise in architecting and d
 
 | Role | Organization | Period | Highlights |
 |------|--------------|--------|-----------|
-| **Full-Stack Developer** | Current | 2024 - Present | Building scalable web applications, leading code reviews, mentoring junior developers |
-| **Software Engineer** | Previous Company | 2023 - 2024 | Architected microservices, optimized database performance, implemented CI/CD pipelines |
-| **Junior Developer** | Startup | 2022 - 2023 | Developed responsive UIs, built REST APIs, collaborated on cross-functional teams |
-
----
+| **Full-Stack Developer** | Current | 2024 - Present | Building scalable web applications, leading code reviews, mentoring junior developers 
 
 ## 🎓 Education & Certifications
 
 **Academic Background:**
-- 🎓 Computer Science / Software Engineering
+- im a Software Developer
 - 📚 Focus Areas: Algorithms, System Design, Software Architecture
 
 **Professional Certifications:**
-- ✅ Advanced JavaScript & React Development
+- ✅ Advanced JavaScript Bootcamp
 - ✅ AWS Solutions Architect Associate
 - ✅ MongoDB Certified Developer
 - ✅ Full-Stack Web Development
 - ✅ Prompt Engineering & LLM Applications
-
----
-
-## 🌟 Open Source & Community Contributions
-
-- 🤝 **Active Contributor** - Contributing to open-source projects in full-stack ecosystem
-- 📖 **Technical Writer** - Publishing articles on system design, performance optimization, and AI integration
-- 👥 **Community Developer** - Engaging with developer communities, code reviews, and knowledge sharing
-- 🔧 **Maintainer** - Maintaining personal open-source projects with active community support
-
-**Latest Contributions:**
-- Advanced React optimization patterns
-- Node.js performance tuning guides
-- AI/LLM integration best practices
-- Database scalability solutions
-
----
-
-## 🔧 Development Philosophy
+- ✅ Certified code alpha internship
+-✅ certified YAI Software Technology certeficate of mastery
 
 **Code Excellence:**
 - ✨ Clean, readable, and maintainable code
@@ -132,29 +125,22 @@ Innovative **Full-Stack Software Engineer** with expertise in architecting and d
 - 🏗️ Scalability and performance-driven architecture
 - 🔐 Security and best practices embedded from the start
 - 🚀 Rapid iteration with quality assurance
-
----
-
 ## 🎓 Continuous Learning
-
 - 📚 Advanced System Design & Scalability
 - 🤖 Prompt Engineering & AI/LLM Applications
 - ⚡ Performance Engineering & Optimization
 - 🏗️ Microservices Architecture & Cloud-Native Development
 - 🔐 Security Best Practices & Infrastructure Hardening
-
----
-
 ## 📬 Get In Touch
 
 <div align="center">
   <a href="https://linkedin.com/in/kenenisaboru">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/kenenisaboru">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://t.me/kwth21">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:kenenisaboru998@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -168,3 +154,4 @@ Innovative **Full-Stack Software Engineer** with expertise in architecting and d
 <div align="center">
   <sub>⭐ If you find my work valuable, consider giving it a star | Last Updated: 2026</sub>
 </div>
+
