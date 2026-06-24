@@ -79,23 +79,59 @@ Innovative **Full-Stack Software Engineer** with expertise in architecting and d
 
 ---
 
-## 🏆 Key Achievements
+## 🏢 Professional Experience
 
-✅ **Scalable Architecture Design** - Engineered microservices handling 10K+ concurrent users  
-✅ **Performance Optimization** - Reduced API response time by 60% through strategic caching & indexing  
-✅ **Full-Stack Excellence** - Deployed 15+ production applications across various domains  
-✅ **AI Integration** - Implemented LLM-powered features improving user engagement by 45%  
-✅ **Clean Code Advocate** - Established coding standards and best practices across teams  
+| Role | Organization | Period | Highlights |
+|------|--------------|--------|-----------|
+| **Full-Stack Developer** | Current | 2024 - Present | Building scalable web applications, leading code reviews, mentoring junior developers |
+| **Software Engineer** | Previous Company | 2023 - 2024 | Architected microservices, optimized database performance, implemented CI/CD pipelines |
+| **Junior Developer** | Startup | 2022 - 2023 | Developed responsive UIs, built REST APIs, collaborated on cross-functional teams |
 
 ---
 
-## 📁 Featured Projects
+## 🎓 Education & Certifications
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|-----------|--------|
-| **Student Platform** | Full-stack social learning with real-time collaboration | React, Node.js, MongoDB, Socket.io | ✅ Live |
-| **AI Content Generator** | LLM-powered content creation system | Next.js, OpenAI API, PostgreSQL | ✅ Live |
-| **Performance Dashboard** | Analytics platform with real-time metrics | React, D3.js, GraphQL, Redis | ✅ Live |
+**Academic Background:**
+- 🎓 Computer Science / Software Engineering
+- 📚 Focus Areas: Algorithms, System Design, Software Architecture
+
+**Professional Certifications:**
+- ✅ Advanced JavaScript & React Development
+- ✅ AWS Solutions Architect Associate
+- ✅ MongoDB Certified Developer
+- ✅ Full-Stack Web Development
+- ✅ Prompt Engineering & LLM Applications
+
+---
+
+## 🌟 Open Source & Community Contributions
+
+- 🤝 **Active Contributor** - Contributing to open-source projects in full-stack ecosystem
+- 📖 **Technical Writer** - Publishing articles on system design, performance optimization, and AI integration
+- 👥 **Community Developer** - Engaging with developer communities, code reviews, and knowledge sharing
+- 🔧 **Maintainer** - Maintaining personal open-source projects with active community support
+
+**Latest Contributions:**
+- Advanced React optimization patterns
+- Node.js performance tuning guides
+- AI/LLM integration best practices
+- Database scalability solutions
+
+---
+
+## 🔧 Development Philosophy
+
+**Code Excellence:**
+- ✨ Clean, readable, and maintainable code
+- 🎯 SOLID principles and design patterns
+- 📝 Comprehensive documentation and testing
+- ♻️ Continuous refactoring and optimization
+
+**Problem-Solving Approach:**
+- 🧠 Algorithmic thinking and optimization-first mindset
+- 🏗️ Scalability and performance-driven architecture
+- 🔐 Security and best practices embedded from the start
+- 🚀 Rapid iteration with quality assurance
 
 ---
 
