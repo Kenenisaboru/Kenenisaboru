@@ -25,7 +25,6 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Full Stack Developer" />
 </div>
 ---
-## 🎯About Me ##
 
 I'm a **Full-Stack Software Engineer** passionate about building fast, scalable applications that solve real problems. With hands-on experience in modern web technologies and AI integration, I specialize in turning complex ideas into clean, efficient code.
 
