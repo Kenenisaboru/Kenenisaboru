@@ -24,21 +24,21 @@
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Full Stack Developer" />
 </div>
-
 ---
+## 🎯About Me ##
 
----
+I'm a **Full-Stack Software Engineer** passionate about building fast, scalable applications that solve real problems. With hands-on experience in modern web technologies and AI integration, I specialize in turning complex ideas into clean, efficient code.
 
-## 🎯 Professional Summary
+**What I Do:**
+- 🏗️ **Build Scalable Applications** - Design and deploy production-ready systems that grow with your needs
+- 🤖 **Integrate AI Solutions** - Implement LLM and machine learning features to enhance user experience
+- ⚡ **Optimize Performance** - Reduce load times, improve databases, and maximize efficiency
+- 🔧 **Full-Stack Development** - Work seamlessly across frontend, backend, and databases
+- ☁️ **Cloud & DevOps** - Deploy on AWS, manage containers, automate workflows
+- 📚 **Clean Code Advocate** - Write maintainable, well-tested code that lasts
 
-Innovative **Full-Stack Software Engineer** with expertise in architecting and deploying scalable, production-grade applications. Proficient in designing microservices, optimizing system performance, and leveraging AI/ML technologies to deliver intelligent solutions. Committed to software excellence through clean architecture, test-driven development, and continuous optimization.
-
-**Core Competencies:**
-- Enterprise-level web application development
-- Cloud infrastructure & DevOps practices
-- AI/LLM integration and prompt engineering
-- Database optimization and system design
-- Performance engineering and scalability
+**My Approach:**
+I believe in writing code that's not just functional, but elegant and maintainable. Every project gets my commitment to quality, performance, and continuous improvement.
 
 ---
 
