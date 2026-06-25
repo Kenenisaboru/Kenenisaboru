@@ -111,7 +111,7 @@ I believe in writing code that's not just functional, but elegant and maintainab
 - ✅ Full-Stack Web Development
 - ✅ Prompt Engineering & LLM Applications
 - ✅ Certified code alpha internship
--✅ certified YAI Software Technology certeficate of mastery
+- ✅ certified YAI Software Technology certeficate of mastery
 
 **Code Excellence:**
 - ✨ Clean, readable, and maintainable code
