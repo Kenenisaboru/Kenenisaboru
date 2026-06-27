@@ -14,7 +14,6 @@
 </div>
 
 ---
-
 <div align="center">
   <img src="https://media.giphy.com/media/SvckSy7fFvE0upXZeI/giphy.gif" width="300" alt="Developer Working" />
   &nbsp;&nbsp;&nbsp;
