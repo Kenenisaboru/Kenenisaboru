@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=800&color=7E3ACE&center=true&width=900&lines=👋+Kenenisa+Boru;Full-Stack+Engineer+🚀;AI+%26+Systems+Architect+⚙️;Building+Products+That+Matter+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?<font=Fira+Code&weight=700&size=36&duration=3000&pause=800&color=7E3ACE&center=true&width=900&lines=👋+Kenenisa+Boru;Full-Stack+Engineer+🚀;AI+%26+Systems+Architect+⚙️;Building+Products+That+Matter+💡" alt="Typing SVG" />
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kenenisaboru&label=Profile+Views&color=7E3ACE&style=flat-square&abbreviated=true" alt="profile views" />
