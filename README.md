@@ -73,17 +73,21 @@ I'm a full-stack software engineer focused on turning complex problems into clea
 <td width="50%" valign="top">
 
 **🩸 LifeLink**
-Real-time emergency blood-donor matching app (Expo / React Native + Firebase). Proximity-based donor matching, role-based auth, and a live payment simulation for transport support.
+
+Real-time emergency blood-donor matching app built with Expo / React Native and Firebase. Features proximity-based donor matching, role-based authentication for donors and hospitals, and a live payment simulation for transport support.
 
 `React Native` `Firebase` `Expo` `Geolocation`
+
+[Repository →](https://github.com/Kenenisaboru/lifelink)
 
 </td>
 <td width="50%" valign="top">
 
-**Your next project here**
-*(Swap this card for your strongest repo — pin it on your profile and link it here so visitors land on your best work first.)*
+**🚀 [Project Name]**
 
-`Add stack here`
+*Client project — details to be added once shipped.*
+
+`Stack TBD`
 
 </td>
 </tr>
@@ -92,7 +96,7 @@ Real-time emergency blood-donor matching app (Expo / React Native + Firebase). P
 ## GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Kenenisaboru&show_icons=true&theme=radical&count_private=true&hide=contribs" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Kenenisaboru&show_icons=true&theme=radical&count_private=true" />
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com?user=Kenenisaboru&theme=radical" />
 </div>
 
@@ -104,7 +108,7 @@ Real-time emergency blood-donor matching app (Expo / React Native + Firebase). P
 
 | Role | Organization | Period | Highlights |
 |---|---|---|---|
-| Full-Stack Developer | Current | 2024 – Present | Building scalable web applications end-to-end, leading code reviews, mentoring junior developers |
+| Full-Stack Developer | Current | 2024 – Present | Building scalable web applications end-to-end, participating in code reviews, and mentoring junior developers |
 
 ## Certifications
 
