@@ -83,7 +83,7 @@ Real-time emergency blood-donor matching app built with Expo / React Native and 
 </td>
 <td width="50%" valign="top">
 
-**[im not interested to share know ]**
+**im not interested to share know**
 
 *Client project — details to be added once shipped.*
 
