@@ -1,7 +1,13 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11&height=200&section=header&text=Kenenisa%20Boru&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Development%20and%20AI%20Integration&descAlignY=55&descSize=20" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11&height=200&section=header&text=Kenenisa%20Boru&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Development%20and%20AI%20Integration&descAlignY=55&descSize=20" width="100%"/>
+<br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Prompt+Engineer;AI+Integration+Specialist)](https://git.io/typing-svg)
+
+<br>
 <br>
 
 <a href="https://linkedin.com/in/kenenisaboru" title="Connect with me on LinkedIn">
