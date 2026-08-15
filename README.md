@@ -1,137 +1,120 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11&height=200&section=header&text=Kenenisa%20Boru&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20and%20Prompt%20Engineer&descAlignY=55&descSize=20" width="100%"/>
-<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Prompt+Engineer;AI+Integration+Specialist)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11&height=200&section=header&text=Kenenisa%20Boru&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20%26%20LLM%20Integration&descAlignY=55&descSize=18" width="100%"/>
 
-<br>
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;AI+%26+LLM+Integration+Specialist;Building+Production-Grade+Systems)](https://git.io/typing-svg)
 
-<a href="https://linkedin.com/in/kenenisaboru" title="Connect with me on LinkedIn">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://t.me/kwth21" title="Message me on Telegram">
-  <img src="https://img.shields.io/badge/TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="mailto:kenenisaboru998@gmail.com" title="Send me an email">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p>
+  <a href="https://linkedin.com/in/kenenisaboru"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/kwth21"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:kenenisaboru998@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Kenenisaboru"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/EXPERIENCE-2%2B%20YEARS-2f2f2f?style=for-the-badge" title="2+ years of professional experience" />
-<img src="https://img.shields.io/badge/AVAILABILITY-WORLDWIDE-1e88e5?style=for-the-badge" title="Open to remote work worldwide" />
-<img src="https://img.shields.io/badge/OPEN%20SOURCE-READY-fb8c00?style=for-the-badge" title="Happy to contribute to open source" />
-<img src="https://komarev.com/ghpvc/?username=Kenenisaboru&label=PROFILE+VIEWS&color=7E3ACE&style=for-the-badge&abbreviated=true" title="Total profile views" />
-<a href="https://github.com/Kenenisaboru?tab=followers" title="See my GitHub followers">
-  <img src="https://img.shields.io/github/followers/Kenenisaboru?color=1e88e5&logo=github&style=for-the-badge&label=FOLLOWERS" />
-</a>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kenenisaboru&theme=react-dark&hide_border=true&area=true" width="90%"/>
+<p>
+  <img src="https://img.shields.io/badge/EXPERIENCE-2%2B%20YEARS-2f2f2f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AVAILABILITY-REMOTE%2C%20WORLDWIDE-1e88e5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OPEN%20SOURCE-CONTRIBUTOR-fb8c00?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Kenenisaboru&label=PROFILE+VIEWS&color=7E3ACE&style=for-the-badge&abbreviated=true" />
+  <a href="https://github.com/Kenenisaboru?tab=followers"><img src="https://img.shields.io/github/followers/Kenenisaboru?color=1e88e5&logo=github&style=for-the-badge&label=FOLLOWERS" /></a>
+</p>
 
 </div>
 
 <br>
 
-## 📊 About Me
+## About Me
 
-```js
-const KenenisaBoru = {
-    name: "Kenenisa Boru",
-    title: "Full-Stack Software Engineer",
-    currentRole: "Full-Stack Developer",
-    location: "Available Worldwide 🌍",
-    experience: "2+ Years",
-    specialization: [
-        "Full Stack Web Development",
-        "AI Integration & LLM Applications",
-        "Cloud & DevOps",
-        "System Architecture & Performance"
-    ],
-    focus: "React, Next.js, Node.js, and AI-powered products",
-    motto: "Turning ideas into production-grade systems 🚀"
+I'm a full-stack software engineer with **2+ years of professional experience** building web applications, integrating AI/LLM capabilities into real products, and deploying resilient cloud infrastructure. I care about clean architecture, measurable performance, and shipping software that holds up under real-world load.
+
+```javascript
+const kenenisaBoru = {
+  role: "Full-Stack Software Engineer",
+  location: "Remote — Available Worldwide 🌍",
+  experience: "2+ Years",
+  focus: [
+    "Full-Stack Web Development (React / Next.js / Node.js)",
+    "AI & LLM Integration",
+    "Cloud Architecture & DevOps",
+    "Performance Engineering",
+  ],
+  currentlyExploring: ["System Design at Scale", "Microservices", "Security Hardening"],
+  motto: "Turning ideas into production-grade systems.",
 };
 ```
 
-## 🎯 What I Do Best
+<br>
 
-<p align="center"><em>End-to-end solutions to help you build, launch, and scale faster</em></p>
+## What I Do Best
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Wolfr/undraw-react-illustrations/svg/undraw_programming_re_kg9v.svg" width="380"/>
-</div>
-
-- 🏗️ **Scalable Web Applications** — designing and deploying systems that hold up under real usage
-- 🤖 **AI & LLM Integration** — prompt engineering and practical AI features built into real products
+- 🏗️ **Scalable Web Applications** — designing and shipping systems built to hold up under real usage
+- 🤖 **AI & LLM Integration** — prompt engineering and practical AI features embedded in production products
 - ⚡ **Performance Optimization** — faster load times, leaner databases, tighter systems
-- ☁️ **Cloud & DevOps** — deploying on AWS, containerizing with Docker, automating the boring parts
+- ☁️ **Cloud & DevOps** — deploying on AWS, containerizing with Docker, automating delivery pipelines
 - 📚 **Clean, Maintainable Code** — readable, tested, and built to last
 
-## 🛠️ Tech Stack
+<br>
 
-**Frontend Frameworks & Libraries**
-<div align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" title="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" title="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" title="Redux" />
-</div>
+## Tech Stack
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 
 **Backend & Languages**
-<div align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" title="Express" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" title="GraphQL" />
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" title="REST APIs" />
-</div>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 **Databases & Infrastructure**
-<div align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" title="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" title="Docker" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" title="AWS" />
-</div>
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
 **AI & Applied ML**
-<div align="left">
-  <img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" title="OpenAI APIs" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-00D9FF?style=for-the-badge" title="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/LLM_Integration-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" title="LLM Integration" />
-</div>
+
+<img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM_Integration-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
 **Mobile & Cross-Platform**
-<div align="left">
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" title="React Native" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" title="Expo" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" title="Firebase" />
-</div>
 
-## 🚀 Featured Work
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+<br>
+
+## Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🩸 LifeLink**
+### 🩸 LifeLink
 
-Real-time emergency blood-donor matching app built with Expo / React Native and Firebase. Features proximity-based donor matching, role-based authentication for donors and hospitals, and a live payment simulation for transport support.
+Real-time emergency blood-donor matching app built with React Native (Expo) and Firebase. Includes proximity-based donor matching, role-based authentication for donors and hospitals, and a live payment simulation for transport support.
 
 `React Native` `Firebase` `Expo` `Geolocation`
 
-[Repository →](https://github.com/Kenenisaboru/lifelink "View the LifeLink source code")
+**[View Repository →](https://github.com/Kenenisaboru/lifelink)**
 
 </td>
 <td width="50%" valign="top">
 
-**Client Project**
+### 💼 Client Project
 
-*Details to be added once shipped.*
+Case study in progress — details will be added once the project ships publicly.
 
 `Stack TBD`
 
@@ -139,7 +122,9 @@ Real-time emergency blood-donor matching app built with Expo / React Native and 
 </tr>
 </table>
 
-## 📈 GitHub Analytics
+<br>
+
+## GitHub Analytics
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Kenenisaboru&show_icons=true&theme=radical&count_private=true" />
@@ -150,15 +135,23 @@ Real-time emergency blood-donor matching app built with Expo / React Native and 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenenisaboru&layout=compact&theme=radical&langs_count=8" />
 </div>
 
-## 💼 Experience
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kenenisaboru&theme=react-dark&hide_border=true&area=true" width="90%"/>
+</div>
+
+<br>
+
+## Experience
 
 | Role | Organization | Period | Highlights |
 |---|---|---|---|
-| Full-Stack Developer | Current | 2024 – Present | Building scalable web applications end-to-end, participating in code reviews, and mentoring junior developers |
+| Full-Stack Developer | Current | 2024 – Present | Building scalable web applications end-to-end, leading code reviews, and mentoring junior developers |
 
-## 🏆 Certifications
+<br>
 
-- ✅ AWS Solutions Architect – Associate
+## Certifications
+
+- ✅ AWS Certified Solutions Architect – Associate
 - ✅ MongoDB Certified Developer
 - ✅ Full-Stack Web Development
 - ✅ Prompt Engineering & LLM Applications
@@ -166,33 +159,31 @@ Real-time emergency blood-donor matching app built with Expo / React Native and 
 - ✅ Code Alpha Internship Certificate
 - ✅ YAI Software Technology — Certificate of Mastery
 
-## 📚 Currently Learning
+<br>
+
+## Currently Learning
 
 - Advanced system design & scalability
 - Microservices & cloud-native architecture
 - Security best practices & infrastructure hardening
 - Performance engineering & optimization
 
-## 📬 Get In Touch
-
-<div align="center">
-  <a href="https://linkedin.com/in/kenenisaboru" title="Connect with me on LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://t.me/kwth21" title="Message me on Telegram">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:kenenisaboru998@gmail.com" title="Send me an email">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
 <br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=15&duration=3000&pause=1000&color=7E3ACE&center=true&width=700&lines=Let's+build+scalable+solutions+together;Turning+ideas+into+production-grade+systems" alt="Footer" />
-</div>
+## Let's Connect
 
 <div align="center">
-  <sub>⭐ If any of this is useful to you, a star goes a long way.</sub>
+
+I'm open to remote opportunities and collaborations worldwide — feel free to reach out.
+
+<a href="https://linkedin.com/in/kenenisaboru"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://t.me/kwth21"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="mailto:kenenisaboru998@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Courier+New&size=15&duration=3000&pause=1000&color=7E3ACE&center=true&width=700&lines=Let's+build+scalable+solutions+together;Turning+ideas+into+production-grade+systems" alt="Footer" />
+
+<sub>⭐ If this profile was useful to you, a star on my repos goes a long way.</sub>
+
 </div>
