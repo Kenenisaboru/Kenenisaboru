@@ -160,23 +160,6 @@ Case study in progress — details will be added once the project ships publicly
 
 </div>
 
-<details>
-<summary><b>⚙️ Not showing up? Click here — one-time setup (5 min)</b></summary>
-<br>
-
-This image will stay broken until a GitHub Action actually generates it inside **your own** `Kenenisaboru/Kenenisaboru` repo — no one can pre-generate it for you since it reads your live contribution graph. Steps:
-
-1. In your `Kenenisaboru/Kenenisaboru` repo, create the folder path `.github/workflows/` if it doesn't exist.
-2. Add a file named `snake.yml` inside it — use the one I've generated for you (`snake.yml`, shared alongside this README).
-3. Commit and push it to your `main` branch.
-4. Go to the **Actions** tab on your repo → you should see a workflow called **"Generate Snake Animation"** → click **Run workflow** to trigger it the first time (it will also auto-run daily after that).
-5. Once it finishes (green checkmark, ~30 seconds), it creates a new branch called `output` with the generated SVGs in it.
-6. Refresh your profile page — the snake above will now render, animating across your real contribution graph.
-
-If the Action fails on first run, it's almost always because **Settings → Actions → General → Workflow permissions** is set to "Read only" — switch it to **"Read and write permissions"** and re-run.
-
-</details>
-
 <br>
 
 ## 💼 Experience
