@@ -158,16 +158,6 @@ Case study in progress — details will be added once the project ships publicly
 
 <br>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kenenisaboru/Kenenisaboru/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kenenisaboru/Kenenisaboru/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Kenenisaboru/Kenenisaboru/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
 </div>
 
 <details>
