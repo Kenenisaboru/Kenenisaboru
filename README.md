@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7E3ACE,100:1e88e5&height=220&section=header&text=Kenenisa%20Boru&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Software%20Engineer%20-%20AI%20and%20LLM%20Integration&descAlignY=52&descSize=19" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=7E3ACE&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;AI+%26+LLM+Integration+Specialist;Cloud+%26+Performance+Engineering;Building+Production-Grade+Systems" alt="Typing SVG" />
