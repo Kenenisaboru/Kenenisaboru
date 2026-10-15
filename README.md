@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?
-type=waving&color=0:7E3ACE,100:1e88e5&height=220&section=header&text=Kenenisa%20Boru&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20and%20LLM%20Integration&descAlignY=52&descSize=19" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7E3ACE,100:1e88e5&height=220&section=header&text=Kenenisa%20Boru&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20and%20LLM%20Integration&descAlignY=52&descSize=19" width="100%" alt="Header" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=7E3ACE&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;AI+%26+LLM+Integration+Specialist;Cloud+%26+Performance+Engineering;Building+Production-Grade+Systems" alt="Typing SVG" />
 
@@ -142,7 +141,7 @@ Case study in progress — details will be added once the project ships publicly
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kenenisaboru&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=Kenenisaboru&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=1e3a8a&title_color=90caf9&text_color=ffffff&icon_color=90caf9" alt="GitHub stats" />
 <img height="165" src="https://streak-stats.demolab.com/?user=Kenenisaboru&theme=radical&hide_border=true&background=0D1117" alt="GitHub streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenenisaboru&layout=compact&theme=radical&langs_count=8&hide_border=true&bg_color=0D1117" alt="Top languages" />
